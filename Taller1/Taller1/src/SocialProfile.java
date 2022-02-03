@@ -34,6 +34,7 @@ public class SocialProfile {
     protected boolean stateProfileView; 
 
     /**
+     * Métodos:
      * Setters and Getters del estado de vista del perfil:
      */
 

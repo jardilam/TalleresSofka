@@ -34,13 +34,11 @@ public class Person {
     public float height;
     
     /**
+     * Métodos:
      * Se llaman el set y el get según el diagrama UML:
      */
 
     public String getName() {
-        /**
-         * This hace mencion a la variable de la línea 7
-         */
         return name;
     }
     /**

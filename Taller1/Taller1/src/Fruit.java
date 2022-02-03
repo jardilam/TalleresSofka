@@ -23,6 +23,7 @@ public class Fruit {
     public ArrayList<String> colors;
 
     /**
+     * Métodos:
      * Se mencionan los get y set según el diagrama UML:
      */
 

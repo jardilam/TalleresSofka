@@ -28,4 +28,18 @@ public class Vehicle {
      * Lista para saber el color del vehículo
      */
     public ArrayList<String> color;
-}
+
+    /**
+     * Métodos:
+     */
+
+    public boolean isStateVehicle() {
+        return stateVehicle;
+    }
+    public void setStateVehicle(boolean stateVehicle) {
+        this.stateVehicle = stateVehicle;
+    }
+
+    
+}   
+

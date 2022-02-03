@@ -17,6 +17,7 @@ public class BankAccount {
     protected boolean activated;
 
     /**
+     * Métodos:
      * Se mencionan el get y set según el diagrama UML:
      */
     

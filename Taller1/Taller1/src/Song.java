@@ -33,4 +33,16 @@ public class Song {
      * Número entero público de el número de canciones lanzadas en el album
      */
     public int numberOfSongsReleased;
+
+    /**
+     * Métodos:
+     */
+
+    public String getNameSong() {
+        return nameSong;
+    }
+    public void setNameSong(String nameSong) {
+        this.nameSong = nameSong;
+    }
+    
 }
