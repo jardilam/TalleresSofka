@@ -19,3 +19,5 @@ Archivos por defecto:
 
 Para este taller se aplicaron los conicimientos impartidos por el profesor con respecto a la creación de clases, atributos y métodos, haciendo uso de public, private y protected para el manejo de variables dentro de las clases. Cabe recordar que estas clases no tienen conexión alguna por lo que App.java se encuentra sin contenido. 
 
+
+Autor: Juan Fernando Ardila Marín
