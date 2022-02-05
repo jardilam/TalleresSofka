@@ -39,7 +39,23 @@ public class Vehicle {
     public void setStateVehicle(boolean stateVehicle) {
         this.stateVehicle = stateVehicle;
     }
-
-    
+    /**
+     * Se realiza methods para avanzar, parar, voltear a la izquierda, voltear a la derecha y dar reversa
+     */
+    public void goForward() {
+        System.out.println("Moving forward");
+    }
+    public void reverse() {
+        System.out.println("Moving back");
+    }
+    public void stop() {
+        System.out.println("Stopping");
+    }
+    public void turnLeft() {
+        System.out.println("Turning left");
+    }
+    public void turnRight() {
+        System.out.println("Turning right");
+    }
 }   
 

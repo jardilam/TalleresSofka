@@ -44,4 +44,10 @@ public class SocialProfile {
     public void setStateProfileView(boolean stateProfileView) {
         this.stateProfileView = stateProfileView;
     }
+    /**
+     * Se realiza un method para enviar mensaje a otro perfil
+     */
+    public void message() {
+        System.out.println("You sent a message");
+    }
 }

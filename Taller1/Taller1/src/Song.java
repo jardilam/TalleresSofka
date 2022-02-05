@@ -38,11 +38,26 @@ public class Song {
      * Métodos:
      */
 
+     /**
+      * Setters and getters para asignar el nombre de la canción
+      */
+
     public String getNameSong() {
         return nameSong;
     }
     public void setNameSong(String nameSong) {
         this.nameSong = nameSong;
     }
-    
+    /**
+     * Se realiza un method para reproducir, pausar y parar canción
+     */
+    public void play() {
+        System.out.println("Playing song");
+    }
+    public void pause() {
+        System.out.println("Pausing song");
+    }
+    public void stop() {
+        System.out.println("Stopping song");
+    }
 }

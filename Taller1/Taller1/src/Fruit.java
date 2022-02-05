@@ -24,7 +24,8 @@ public class Fruit {
 
     /**
      * Métodos:
-     * Se mencionan los get y set según el diagrama UML:
+     * Se mencionan los get y set según el diagrama UML con el fin de
+     * asignar colores
      */
 
     public ArrayList<String> getColors() {
