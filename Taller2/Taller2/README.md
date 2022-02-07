@@ -1,6 +1,6 @@
-#Taller 2
+# Taller 2
 
-##Naves Espaciales:
+## Naves Espaciales:
 
 En esta ocasión se desarrolla un sistema de clasificación de naves espaciales en donde se crea una clase principal abstracta que distribuye atributos en común a la clasificación de dos tipos de naves espaciales: Tripuladas y no tripuladas.
 
