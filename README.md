@@ -1,23 +1,13 @@
-# Taller 1
+# Taller 2
 
-## Para este taller se pidió la realización de diferentes clases en diferentes archivos con sus respectivos atributos y métodos. Dentro de este taller se encontrarán atributos y métodos publicos, privados y protegidos.
+## Naves Espaciales:
 
-### Para encontrar los archivos con las clases, es necesario seguir la siguiente ruta: jardilam/TalleresSofka/Taller1/Taller1/src
+En esta ocasión se desarrolla un sistema de clasificación de naves espaciales en donde se crea una clase principal abstracta que distribuye atributos en común a la clasificación de dos tipos de naves espaciales: Tripuladas y no tripuladas.
 
-Cada clase es llamada en inglés y dentro de la misma contiene los atributos y métodos solicitados en el taller. Cada línea de código está documentada según la referencia de bloque para documentación. La clase App es únicamente el "compilador" o el código por defecto que corre el programa.
+Cada nave espacial tiene un fin o un comportamiento distinto de la otra. Por ejemplo, la nave no tripulada únicamente servirá para estudiar objetos celestes, mientras que la nave tripulada lleva personas al espacio para investigar y realizar operaciones que requieren de destreza humana.
 
-Archivos dentro del taller:
-  - BankAccount.java
-  - Fruit.java
-  - Person.java
-  - SocialProfile.java
-  - Song.java
-  - Vehicle.java
-  
-Archivos por defecto:
-  - App.java
+La idea es que el usuario tenga la posibilidad de crear una nave espacial asignandole número de motores, celdas fotovoltáicas, nombre y número de personas a bordo.
 
-Para este taller se aplicaron los conicimientos impartidos por el profesor con respecto a la creación de clases, atributos y métodos, haciendo uso de public, private y protected para el manejo de variables dentro de las clases. Cabe recordar que estas clases no tienen conexión alguna por lo que App.java se encuentra sin contenido. 
-
+Así mismo, dependiendo de la nave espacial, la clase principal que es el vehículo lanzador, "arrojará" la nave a cierta velocidad dependiendo de si esta es tripulada o no.
 
 Autor: Juan Fernando Ardila Marín
