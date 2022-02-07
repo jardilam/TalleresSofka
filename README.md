@@ -10,4 +10,6 @@ La idea es que el usuario tenga la posibilidad de crear una nave espacial asigna
 
 Así mismo, dependiendo de la nave espacial, la clase principal que es el vehículo lanzador, "arrojará" la nave a cierta velocidad dependiendo de si esta es tripulada o no.
 
+### La ruta para ingresar al taller es: jardilam/TalleresSofka/Taller2/Taller2/src
+
 Autor: Juan Fernando Ardila Marín
